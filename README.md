@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -23,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
