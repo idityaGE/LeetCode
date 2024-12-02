@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
