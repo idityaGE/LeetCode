@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/idityaGE/LC-GFG/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
 | [0932-monotonic-array](https://github.com/idityaGE/LC-GFG/tree/master/0932-monotonic-array) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/idityaGE/LC-GFG/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
