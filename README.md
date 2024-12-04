@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -67,14 +68,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/idityaGE/LC-GFG/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
