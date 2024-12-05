@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
+| [2383-add-two-integers](https://github.com/idityaGE/LC-GFG/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
