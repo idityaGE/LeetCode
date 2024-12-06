@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/idityaGE/LC-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/idityaGE/LC-GFG/tree/master/0137-single-number-ii) |
 ## Math
@@ -92,10 +93,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
 | [2383-add-two-integers](https://github.com/idityaGE/LC-GFG/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/idityaGE/LC-GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
