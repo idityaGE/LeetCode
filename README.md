@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/idityaGE/LC-GFG/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/idityaGE/LC-GFG/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/idityaGE/LC-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/idityaGE/LC-GFG/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/idityaGE/LC-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/idityaGE/LC-GFG/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 ## Linked List
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
