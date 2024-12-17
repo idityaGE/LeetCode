@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/idityaGE/LC-GFG/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/idityaGE/LC-GFG/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/idityaGE/LC-GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/idityaGE/LC-GFG/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -139,16 +141,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/idityaGE/LC-GFG/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/idityaGE/LC-GFG/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/idityaGE/LC-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/idityaGE/LC-GFG/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/idityaGE/LC-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/idityaGE/LC-GFG/tree/master/0493-reverse-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
