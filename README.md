@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/idityaGE/LC-GFG/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/idityaGE/LC-GFG/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/idityaGE/LC-GFG/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
 | [2383-add-two-integers](https://github.com/idityaGE/LC-GFG/tree/master/2383-add-two-integers) |
 ## Recursion
