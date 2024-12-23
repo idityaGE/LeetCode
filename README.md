@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/idityaGE/LC-GFG/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/idityaGE/LC-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
 | [0932-monotonic-array](https://github.com/idityaGE/LC-GFG/tree/master/0932-monotonic-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/idityaGE/LC-GFG/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/idityaGE/LC-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
