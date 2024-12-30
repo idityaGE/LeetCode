@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/idityaGE/LC-GFG/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [2383-add-two-integers](https://github.com/idityaGE/LC-GFG/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/idityaGE/LC-GFG/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/idityaGE/LC-GFG/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/idityaGE/LC-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
