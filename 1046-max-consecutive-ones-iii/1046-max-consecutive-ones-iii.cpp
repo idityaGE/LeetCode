@@ -9,7 +9,7 @@ public:
             if (nums[r] == 0)
                 cntZero++;
 
-            if (cntZero > k)
+            while (cntZero > k)
                 if (nums[l++] == 0)
                     cntZero--;
 
