@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/idityaGE/LC-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/idityaGE/LC-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/idityaGE/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3429-special-array-i](https://github.com/idityaGE/LC-GFG/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
