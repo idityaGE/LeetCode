@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/idityaGE/LC-GFG/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/idityaGE/LC-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/idityaGE/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/idityaGE/LC-GFG/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/idityaGE/LC-GFG/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/idityaGE/LC-GFG/tree/master/0966-binary-subarrays-with-sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/idityaGE/LC-GFG/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/idityaGE/LeetCode/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
