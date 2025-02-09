@@ -11,7 +11,7 @@ func countBadPairs(nums []int) int64 {
         freq[key]++
     }
 
-    var badPairs int64 = int64(n*(n-1)/2 - goodPairs)
+    // var badPairs int64 = 
 
-    return badPairs
+    return int64(n*(n-1)/2 - goodPairs)
 }
