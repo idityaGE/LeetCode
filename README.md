@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/idityaGE/LC-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/idityaGE/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3429-special-array-i](https://github.com/idityaGE/LC-GFG/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/idityaGE/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/idityaGE/LC-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/idityaGE/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/idityaGE/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/idityaGE/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [2383-add-two-integers](https://github.com/idityaGE/LC-GFG/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -287,4 +290,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/idityaGE/LC-GFG/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/idityaGE/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/idityaGE/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
