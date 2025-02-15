@@ -1,12 +1,12 @@
 class Solution:
     def punishmentNumber(self, n: int) -> int:
-        arr = [1,9,10,36,45,55,82,91,99,100,235,297,369,370,379,414,
-               657,675,703,756,792,909,918,945,964,990,991,999,1000]
+        def partition(x, target):
+            if x==target: return True
+            if x==0: return target==0
+            for m in (10, 100, 1000):
+                if partition(x // m, target - x % m):
+                    return True
+            return False
+        return sum(x for i in range(1, n+1) if partition(x := i*i, i))
         
-        total = 0
-        for num in arr:
-            if num <= n:
-                total += num * num
-            else:
-                break
-        return total
+            
