@@ -1,24 +1,26 @@
 class Solution {
 public:
     int numTilePossibilities(string tiles) {
-        unordered_set<string> seq;
-        vector<bool> used(tiles.length(), false);
-
-        generateSeq(tiles, "", used, seq);
-
-        return seq.size() - 1;
+        int charCount[26] = {0};
+        for (char ch : tiles)
+            charCount[ch - 'A']++;
+        return findSeq(charCount);
     }
 
 private:
-    void generateSeq(string& tiles, string current, vector<bool>& used,
-                     unordered_set<string>& seq) {
-        seq.insert(current);
-        for (int pos = 0; pos < tiles.length(); ++pos) {
-            if (!used[pos]) {
-                used[pos] = true;
-                generateSeq(tiles, current + tiles[pos], used, seq);
-                used[pos] = false;
-            }
+    int findSeq(int charCount[26]) {
+        int totalCount = 0;
+
+        for (int pos = 0; pos < 26; pos++) {
+            if (charCount[pos] == 0)
+                continue;
+
+            totalCount++;
+            charCount[pos]--;
+            totalCount += findSeq(charCount);
+            charCount[pos]++;
         }
+
+        return totalCount;
     }
 };
