@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/idityaGE/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/idityaGE/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/idityaGE/LC-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/idityaGE/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/idityaGE/LC-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/idityaGE/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/idityaGE/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/idityaGE/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idityaGE/LC-GFG/tree/master/0455-assign-cookies) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2756-buy-two-chocolates](https://github.com/idityaGE/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/idityaGE/LC-GFG/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/idityaGE/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/idityaGE/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/idityaGE/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Trie
