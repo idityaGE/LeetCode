@@ -1,15 +1,14 @@
 type F = (x: number) => number;
 
 function compose(fn: F[]): F {
-    if (fn.length == 0) {
-        return function (x) { return x; }
-    }
 
-    return fn.reduceRight((prevFn, nextFn) => {
-        return (x) => {
-            return nextFn(prevFn(x));
+    return (x) => {
+        let result = x;
+        for (let i = fn.length - 1; i >= 0; i--) {
+            result = fn[i](result);
         }
-    })
+        return result;
+    }
 };
 
 /**
