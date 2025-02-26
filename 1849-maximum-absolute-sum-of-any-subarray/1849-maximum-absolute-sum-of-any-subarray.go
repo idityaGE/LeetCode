@@ -1,12 +1,17 @@
-func maxAbsoluteSum(nums []int) int {
-	maxPrefixSum := 0
-	minPrefixSum := 0
+import (
+  "math"
+)
 
-	prefix := 0
+func maxAbsoluteSum(nums []int) int {
+	maxSum, minSum := 0, 0
+	currMaxSum, currMinSum := 0, 0
 	for _, num := range nums {
-		prefix += num
-		maxPrefixSum = max(prefix, maxPrefixSum)
-		minPrefixSum = min(prefix, minPrefixSum)
+		currMaxSum += num
+		currMinSum += num
+		maxSum = max(maxSum, currMaxSum)
+		minSum = min(minSum, currMinSum)
+    if currMaxSum < 0 { currMaxSum = 0 }
+    if currMinSum > 0 { currMinSum = 0 }
 	}
-	return (maxPrefixSum - minPrefixSum)
+  return max(maxSum, int(math.Abs(float64(minSum))))
 }
