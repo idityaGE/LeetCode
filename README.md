@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/idityaGE/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/idityaGE/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2756-buy-two-chocolates](https://github.com/idityaGE/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/idityaGE/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/idityaGE/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/idityaGE/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/idityaGE/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/idityaGE/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/idityaGE/LeetCode/tree/master/3447-clear-digits) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/idityaGE/LC-GFG/tree/master/0455-assign-cookies) |
+| [2551-apply-operations-to-an-array](https://github.com/idityaGE/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
