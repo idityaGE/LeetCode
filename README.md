@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/idityaGE/LC-GFG/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/idityaGE/LC-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/idityaGE/LC-GFG/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/idityaGE/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/idityaGE/LC-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/idityaGE/LC-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/idityaGE/LC-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
