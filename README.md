@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/idityaGE/LC-GFG/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/idityaGE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/idityaGE/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/idityaGE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/idityaGE/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
