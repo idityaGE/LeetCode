@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/idityaGE/LC-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/idityaGE/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/idityaGE/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/idityaGE/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/idityaGE/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/idityaGE/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/idityaGE/LC-GFG/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/idityaGE/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/idityaGE/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/idityaGE/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/idityaGE/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/idityaGE/LC-GFG/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/idityaGE/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/idityaGE/LC-GFG/tree/master/0455-assign-cookies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2756-buy-two-chocolates](https://github.com/idityaGE/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3430-count-days-without-meetings](https://github.com/idityaGE/LeetCode/tree/master/3430-count-days-without-meetings) |
