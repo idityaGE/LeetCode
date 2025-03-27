@@ -1,23 +1,28 @@
 class Solution {
 public:
     int minimumIndex(vector<int>& nums) {
-        const int n=nums.size();
-        unordered_map<unsigned, unsigned> freq;
-        freq.reserve(n);
-        int maxF=1, xM=0;
-        for(int x: nums){
-            unsigned& f=freq[x];
-            if(++f>n/2){
-                maxF=f;
-                xM=x;
+        int count=0, x = -1;
+        int n = nums.size();
+        for(auto it: nums){
+            if(count == 0){
+                x = it;
             }
+            count += (it == x) ? 1 : -1;
         }
-    //    cout<<"maxF="<<maxF<<", xM="<<xM<<endl;
-        int cntxM=0;
-        for(int i=0; i<n; i++){
-            cntxM+=nums[i]==xM;
-            if (cntxM*2>(i+1) && ((maxF-cntxM)*2>(n-i-1)))
+        count = 0;
+        for(auto it: nums){
+            if(it == x) count++;
+        }
+        int ans = -1;
+        int cnt=0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] == x){
+                cnt++;
+            }
+            int left = count-cnt;
+            if(cnt > ((i+1)/2) && left > ((n-i-1)/2)){
                 return i;
+            }
         }
         return -1;
     }
