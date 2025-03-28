@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/idityaGE/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/idityaGE/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idityaGE/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/idityaGE/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/idityaGE/LeetCode/tree/master/2690-house-robber-iv) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/idityaGE/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
 | [2434-design-a-number-container-system](https://github.com/idityaGE/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/idityaGE/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/idityaGE/LC-GFG/tree/master/0455-assign-cookies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/idityaGE/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/idityaGE/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/idityaGE/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2756-buy-two-chocolates](https://github.com/idityaGE/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/idityaGE/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/idityaGE/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/idityaGE/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/idityaGE/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String Matching
@@ -460,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/idityaGE/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
