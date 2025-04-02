@@ -1,12 +1,10 @@
 func maximumTripletValue(nums []int) int64 {
 	n := len(nums)
-    var res int64 = 0
-    for k := 2; k < n; k++ {
-        maxPrefix := nums[0]
-        for j := 1; j < k; j++ {
-            res = max(res, int64(maxPrefix-nums[j])*int64(nums[k]))
-            maxPrefix = max(maxPrefix, nums[j])
-        }
-    }
-    return res
+	var res, imax, dmax int64 = 0, 0, 0
+	for k := 0; k < n; k++ {
+		res = max(res, dmax*int64(nums[k]))
+		dmax = max(dmax, imax-int64(nums[k]))
+		imax = max(imax, int64(nums[k]))
+	}
+	return res
 }
