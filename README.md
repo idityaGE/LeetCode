@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/idityaGE/LC-GFG/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/idityaGE/LC-GFG/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/idityaGE/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/idityaGE/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/idityaGE/LC-GFG/tree/master/0090-subsets-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/idityaGE/LC-GFG/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/idityaGE/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/idityaGE/LC-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/idityaGE/LC-GFG/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/idityaGE/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/idityaGE/LC-GFG/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
