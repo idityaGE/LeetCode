@@ -1,33 +1,20 @@
 class Solution {
 public:
-    int canBeTypedWords(string text, string broken){
-        unordered_set<char> brokenKeys;
+    int canBeTypedWords(string text, string broken) {
+        int mask = 0;
+        for (int i = 0; i < broken.size(); i++)
+            mask |= 1 << (broken[i] - 97);
+        
         int count = 0;
-
-        for (auto& c : broken){
-            brokenKeys.insert(c);
-        }
-
-        stringstream ss(text);
-        string word;
-        vector<string> words;
-
-        while (ss >> word){
-            words.push_back(word);
-        }
-
-        for (auto w : words)
-        {
-            for (char c : w)
-            {
-                if (brokenKeys.find(c) != brokenKeys.end())
-                {
-                    count++;
-                    break;
-                }
+        int wordMask = 0;
+        for (int i = 0; i <= text.size(); i++) {
+            if (i < text.size() && text[i] >= 'a' && text[i] <= 'z')
+                wordMask |= mask & (1 << (text[i] - 97));
+            if (i == text.size() || text[i] == ' ') {
+                if (wordMask == 0) count++;
+                wordMask = 0;
             }
         }
-
-        return words.size() - count;
+        return count;
     }
 };
