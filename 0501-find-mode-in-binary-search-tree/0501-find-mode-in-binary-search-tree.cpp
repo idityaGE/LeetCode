@@ -17,15 +17,15 @@ public:
         inOrder(root);
 
         int maxFreq = INT_MIN;
-        for (auto& it : mp) {
-            if (it.second > maxFreq)
-                maxFreq = it.second;
-        }
-
         vector<int> ans;
         for (auto& it : mp) {
             if (it.second == maxFreq)
                 ans.push_back(it.first);
+            else if (it.second > maxFreq) {
+                maxFreq = it.second;
+                ans.clear();
+                ans.push_back(it.first);
+            }
         }
 
         return ans;
