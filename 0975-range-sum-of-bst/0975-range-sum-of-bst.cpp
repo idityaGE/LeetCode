@@ -12,24 +12,21 @@
  */
 class Solution {
 public:
-    int low;
-    int high;
-    int rangeSumBST(TreeNode* root, int _low, int _high) {
-        low = _low;
-        high = _high;
-        int sum = 0;
-        solve(root, &sum);
-        return sum;
+    int rangeSumBST(TreeNode* root, int low, int high) {
+        return solve(root, low, high);
     }
 
-    void solve(TreeNode* node, int *sum) {
-        if (node == NULL)
-            return;
+    int solve(TreeNode* node, int low, int high) {
+        if (!node)
+            return 0;
 
-        if (node->val <= high && node->val >= low)
-            *sum += node->val;
+        if (node->val >= low && node->val <= high)
+            return node->val + solve(node->left, low, high) +
+                   solve(node->right, low, high);
 
-        solve(node->left, sum);
-        solve(node->right, sum);
+        if (node->val < low)
+            return solve(node->right, low, high);
+
+        return solve(node->left, low, high);
     }
 };
