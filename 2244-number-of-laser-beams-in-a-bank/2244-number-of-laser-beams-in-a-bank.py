@@ -1,0 +1,10 @@
+class Solution:
+    def numberOfBeams(self, bank: List[str]) -> int:
+        ans, prev = 0, 0
+        for row in bank:
+            cnt = row.count('1')
+            if cnt > 0:
+                ans += cnt * prev
+                prev = cnt
+        return ans
+        
