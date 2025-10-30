@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/idityaGE/LC-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/idityaGE/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/idityaGE/LeetCode/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/idityaGE/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/idityaGE/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/idityaGE/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/idityaGE/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/idityaGE/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/idityaGE/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/idityaGE/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/idityaGE/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/idityaGE/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/idityaGE/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/idityaGE/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/idityaGE/LC-GFG/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/idityaGE/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/idityaGE/LeetCode/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/idityaGE/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/idityaGE/LeetCode/tree/master/1448-maximum-69-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/idityaGE/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/idityaGE/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/idityaGE/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
