@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/idityaGE/LC-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/idityaGE/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/idityaGE/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1284-four-divisors](https://github.com/idityaGE/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/idityaGE/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/idityaGE/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/idityaGE/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/idityaGE/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/idityaGE/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
+| [1284-four-divisors](https://github.com/idityaGE/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/idityaGE/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/idityaGE/LeetCode/tree/master/1448-maximum-69-number) |
