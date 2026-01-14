@@ -14,7 +14,7 @@ public:
         return steps;
     }
 
-    int helper(pair<int, int> p1, pair<int, int> p2) {
+    inline int helper(pair<int, int> p1, pair<int, int> p2) {
         int x_diff = abs(p1.first - p2.first);
         int y_diff = abs(p1.second - p2.second);
 
