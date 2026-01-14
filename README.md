@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/idityaGE/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/idityaGE/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/idityaGE/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/idityaGE/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/idityaGE/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/idityaGE/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
 | [1284-four-divisors](https://github.com/idityaGE/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/idityaGE/LC-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/idityaGE/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/idityaGE/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/idityaGE/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/idityaGE/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -834,4 +836,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/idityaGE/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/idityaGE/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
