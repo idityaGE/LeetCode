@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/idityaGE/LC-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/idityaGE/LC-GFG/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/idityaGE/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/idityaGE/LC-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/idityaGE/LC-GFG/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/idityaGE/LC-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/idityaGE/LC-GFG/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/idityaGE/LC-GFG/tree/master/0493-reverse-pairs) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/idityaGE/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/idityaGE/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/idityaGE/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/idityaGE/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/idityaGE/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/idityaGE/LeetCode/tree/master/0975-range-sum-of-bst) |
