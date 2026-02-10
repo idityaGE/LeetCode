@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/idityaGE/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/idityaGE/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/idityaGE/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/idityaGE/LC-GFG/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/idityaGE/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Union Find
 |  |
 | ------- |
