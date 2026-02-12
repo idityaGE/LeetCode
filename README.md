@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/idityaGE/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
+| [4055-longest-balanced-substring-i](https://github.com/idityaGE/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/idityaGE/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4055-longest-balanced-substring-i](https://github.com/idityaGE/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/idityaGE/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/idityaGE/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/idityaGE/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/idityaGE/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/idityaGE/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/idityaGE/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4055-longest-balanced-substring-i](https://github.com/idityaGE/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Binary Search Tree
 |  |
 | ------- |
