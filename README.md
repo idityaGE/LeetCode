@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/idityaGE/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/idityaGE/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/idityaGE/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-count-number-of-bad-pairs](https://github.com/idityaGE/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/idityaGE/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/idityaGE/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/idityaGE/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/idityaGE/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/idityaGE/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/idityaGE/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/idityaGE/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
