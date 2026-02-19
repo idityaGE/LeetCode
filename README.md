@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/idityaGE/LC-GFG/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/idityaGE/LC-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/idityaGE/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/idityaGE/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/idityaGE/LC-GFG/tree/master/0260-single-number-iii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/idityaGE/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/idityaGE/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/idityaGE/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/idityaGE/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/idityaGE/LC-GFG/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/idityaGE/LC-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/idityaGE/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/idityaGE/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/idityaGE/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/idityaGE/LC-GFG/tree/master/0349-intersection-of-two-arrays) |
