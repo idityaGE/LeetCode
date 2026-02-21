@@ -1,15 +1,20 @@
 func firstMissingPositive(nums []int) int {
-    set := make(map[int]struct{})
+	n := len(nums)
 
-    for _, num := range nums {
-        set[num] = struct{}{}
-    }
+	for i := 0; i < n; i++ {
+		// Swap numbers to their correct positions
+		for nums[i] > 0 && nums[i] <= n && nums[nums[i]-1] != nums[i] {
+			target := nums[i] - 1
+			nums[target], nums[i] = nums[i], nums[target]
+		}
+	}
 
-    for i := 1; i <= len(nums) + 1; i++ {
-        if _, ok := set[i]; !ok {
-            return i
-        }
-    }
+	// Determine the first missing positive number
+	for i := 0; i < n; i++ {
+		if nums[i] != i+1 {
+			return i + 1
+		}
+	}
 
-    return -1
+	return n + 1 // If all numbers 1 to n are present, return n+1
 }
