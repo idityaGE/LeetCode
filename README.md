@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/idityaGE/LC-GFG/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/idityaGE/LC-GFG/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/idityaGE/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0899-binary-gap](https://github.com/idityaGE/LeetCode/tree/master/0899-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/idityaGE/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/idityaGE/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/idityaGE/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
