@@ -13,7 +13,7 @@ func hasAllCodes(s string, k int) bool {
 
     for i := 0; i <= n-k; i++ {
         sub := s[i : i+k]
-        num, _ := strconv.ParseInt(sub, 2, 64)
+        num, _ := strconv.ParseInt(sub, 2, 32)
         freq[num]++
     }
 
