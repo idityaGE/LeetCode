@@ -1,33 +1,18 @@
 class Solution {
 public:
     int sumRootToLeaf(TreeNode* root) {
-        int sum = 0;
-        vector<int> bits;
-        solve(bits, root, sum);
-        return sum;
+        return dfs(root, 0);
     }
 
-    void solve(vector<int>& bits, TreeNode* node, int& sum) {
-        if (!node) return;
+    int dfs(TreeNode* node, int current) {
+        if (!node) return 0;
 
-        bits.push_back(node->val);
+        current = (current << 1) | node->val;
 
-        // If leaf node â convert and add
-        if (!node->left && !node->right) {
-            sum += convert(bits);
-        } else {
-            solve(bits, node->left, sum);
-            solve(bits, node->right, sum);
-        }
+        if (!node->left && !node->right)
+            return current;
 
-        bits.pop_back();  // backtrack properly
-    }
-
-    int convert(vector<int>& arr) {
-        int num = 0;
-        for (int bit : arr) {
-            num = (num << 1) | bit;   // shift left + add bit
-        }
-        return num;
+        return dfs(node->left, current) +
+               dfs(node->right, current);
     }
 };
