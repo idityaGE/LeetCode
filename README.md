@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/idityaGE/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/idityaGE/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/idityaGE/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/idityaGE/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/idityaGE/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/idityaGE/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/idityaGE/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
