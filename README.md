@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/idityaGE/LC-GFG/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/idityaGE/LC-GFG/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/idityaGE/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0795-k-th-symbol-in-grammar](https://github.com/idityaGE/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0899-binary-gap](https://github.com/idityaGE/LeetCode/tree/master/0899-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/idityaGE/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/idityaGE/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/idityaGE/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/idityaGE/LC-GFG/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/idityaGE/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0795-k-th-symbol-in-grammar](https://github.com/idityaGE/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/idityaGE/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
 | [1284-four-divisors](https://github.com/idityaGE/LeetCode/tree/master/1284-four-divisors) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/idityaGE/LC-GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
+| [0795-k-th-symbol-in-grammar](https://github.com/idityaGE/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/idityaGE/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
