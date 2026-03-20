@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/idityaGE/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/idityaGE/LC-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/idityaGE/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/idityaGE/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/idityaGE/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/idityaGE/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/idityaGE/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/idityaGE/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/idityaGE/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/idityaGE/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/idityaGE/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/idityaGE/LeetCode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/idityaGE/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/idityaGE/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/idityaGE/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/idityaGE/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/idityaGE/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
 | [0795-k-th-symbol-in-grammar](https://github.com/idityaGE/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/idityaGE/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/idityaGE/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/idityaGE/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/idityaGE/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/idityaGE/LeetCode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/idityaGE/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/idityaGE/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/idityaGE/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/idityaGE/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/idityaGE/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
