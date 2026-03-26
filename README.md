@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/idityaGE/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/idityaGE/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/idityaGE/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/idityaGE/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/idityaGE/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/idityaGE/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
