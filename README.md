@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/idityaGE/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2178-walking-robot-simulation-ii](https://github.com/idityaGE/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2434-design-a-number-container-system](https://github.com/idityaGE/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/idityaGE/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/idityaGE/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/idityaGE/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2178-walking-robot-simulation-ii](https://github.com/idityaGE/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/idityaGE/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/idityaGE/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/idityaGE/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
