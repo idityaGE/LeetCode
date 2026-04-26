@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/idityaGE/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/idityaGE/LeetCode/tree/master/1656-count-good-triplets) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/idityaGE/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/idityaGE/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/idityaGE/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0945-snakes-and-ladders](https://github.com/idityaGE/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/idityaGE/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/idityaGE/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/idityaGE/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/idityaGE/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/idityaGE/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/idityaGE/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/idityaGE/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/idityaGE/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/idityaGE/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -987,4 +991,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/idityaGE/LeetCode/tree/master/0948-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
