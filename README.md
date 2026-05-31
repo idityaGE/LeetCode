@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/idityaGE/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/idityaGE/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/idityaGE/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2245-destroying-asteroids](https://github.com/idityaGE/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/idityaGE/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/idityaGE/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/idityaGE/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/idityaGE/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/idityaGE/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2245-destroying-asteroids](https://github.com/idityaGE/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/idityaGE/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/idityaGE/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/idityaGE/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/idityaGE/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/idityaGE/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/idityaGE/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/idityaGE/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/idityaGE/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/idityaGE/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
