@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/idityaGE/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/idityaGE/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/idityaGE/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/idityaGE/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/idityaGE/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/idityaGE/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/idityaGE/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/idityaGE/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
 | ------- |
