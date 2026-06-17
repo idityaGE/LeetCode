@@ -1,8 +1,11 @@
 func fib(n int) int {
-    if n < 2 {return n}
-    a, b := 0, 1
-    for i := 1; i < n; i++ {
-      a, b = b, a+b
+    if n == 0 {
+        return 0
     }
-    return b
+
+    if n <= 2 {
+        return 1
+    }
+
+    return fib(n-1) + fib(n-2)
 }
