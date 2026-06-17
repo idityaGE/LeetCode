@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/idityaGE/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/idityaGE/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/idityaGE/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/idityaGE/LeetCode/tree/master/3651-transformed-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3931-process-string-with-special-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/idityaGE/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
