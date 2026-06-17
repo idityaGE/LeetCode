@@ -1,23 +1,14 @@
 func fib(n int) int {
-    if n == 0 {
-        return 0
+    if n < 2 {
+        return n
     }
 
     memo := make([]int, n+1)
+    memo[0], memo[1] = 0, 1
 
-    return solve(n, memo)
-}
-
-func solve(n int, memo []int) int {
-    if memo[n] != 0 {
-        return memo[n]
+    for i := 2; i <= n; i++ {
+        memo[i] =  memo[i - 1] + memo[i-2]
     }
-
-    if n <= 2 {
-        return 1
-    }
-
-    memo[n] = solve(n -1, memo) + solve(n-2, memo)
 
     return memo[n]
 }
