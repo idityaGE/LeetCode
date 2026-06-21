@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/idityaGE/LC-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/idityaGE/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/idityaGE/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/idityaGE/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/idityaGE/LeetCode/tree/master/1968-maximum-building-height) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/idityaGE/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/idityaGE/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/idityaGE/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
+| [1961-maximum-ice-cream-bars](https://github.com/idityaGE/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/idityaGE/LeetCode/tree/master/1968-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/idityaGE/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/idityaGE/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/idityaGE/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/idityaGE/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1961-maximum-ice-cream-bars](https://github.com/idityaGE/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/idityaGE/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/idityaGE/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/idityaGE/LeetCode/tree/master/2245-destroying-asteroids) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/idityaGE/LeetCode/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/idityaGE/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Union-Find
 |  |
 | ------- |
