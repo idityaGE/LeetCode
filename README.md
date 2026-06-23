@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/idityaGE/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/idityaGE/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/idityaGE/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/idityaGE/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Union Find
 |  |
