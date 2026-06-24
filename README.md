@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/idityaGE/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/idityaGE/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/idityaGE/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/idityaGE/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
