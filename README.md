@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/idityaGE/LC-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/idityaGE/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/idityaGE/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/idityaGE/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/idityaGE/LC-GFG/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/idityaGE/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/idityaGE/LC-GFG/tree/master/0239-sliding-window-maximum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/idityaGE/LC-GFG/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/idityaGE/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/idityaGE/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/idityaGE/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0945-snakes-and-ladders](https://github.com/idityaGE/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/idityaGE/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/idityaGE/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/idityaGE/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/idityaGE/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/idityaGE/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/idityaGE/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/idityaGE/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/idityaGE/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/idityaGE/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/idityaGE/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/idityaGE/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/idityaGE/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/idityaGE/LeetCode/tree/master/0547-number-of-provinces) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Graph Theory
