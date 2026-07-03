@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/idityaGE/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/idityaGE/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/idityaGE/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/idityaGE/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/idityaGE/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/idityaGE/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 ## Stack
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/idityaGE/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/idityaGE/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/idityaGE/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/idityaGE/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/idityaGE/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
@@ -1030,12 +1034,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/idityaGE/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/idityaGE/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/idityaGE/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/idityaGE/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/idityaGE/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/idityaGE/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1104,4 +1110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/idityaGE/LeetCode/tree/master/0547-number-of-provinces) |
+| [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
