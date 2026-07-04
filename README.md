@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/idityaGE/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/idityaGE/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/idityaGE/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/idityaGE/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/idityaGE/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/idityaGE/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/idityaGE/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/idityaGE/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/idityaGE/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/idityaGE/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/idityaGE/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1105,10 +1107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/idityaGE/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/idityaGE/LeetCode/tree/master/0547-number-of-provinces) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/idityaGE/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/idityaGE/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/idityaGE/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/idityaGE/LeetCode/tree/master/0547-number-of-provinces) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/idityaGE/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
