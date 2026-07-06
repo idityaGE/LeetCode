@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/idityaGE/LC-GFG/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/idityaGE/LC-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/idityaGE/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1222-remove-covered-intervals](https://github.com/idityaGE/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/idityaGE/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/idityaGE/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1284-four-divisors](https://github.com/idityaGE/LeetCode/tree/master/1284-four-divisors) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/idityaGE/LC-GFG/tree/master/0455-assign-cookies) |
 | [0763-special-binary-string](https://github.com/idityaGE/LeetCode/tree/master/0763-special-binary-string) |
 | [0948-sort-an-array](https://github.com/idityaGE/LeetCode/tree/master/0948-sort-an-array) |
+| [1222-remove-covered-intervals](https://github.com/idityaGE/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/idityaGE/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/idityaGE/LC-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/idityaGE/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
