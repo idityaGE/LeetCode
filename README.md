@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/idityaGE/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/idityaGE/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/idityaGE/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
