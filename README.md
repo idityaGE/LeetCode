@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/idityaGE/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/idityaGE/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/idityaGE/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/idityaGE/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/idityaGE/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/idityaGE/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/idityaGE/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/idityaGE/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/idityaGE/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/idityaGE/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/idityaGE/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/idityaGE/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/idityaGE/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/idityaGE/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/idityaGE/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/idityaGE/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -726,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/idityaGE/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/idityaGE/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/idityaGE/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -813,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/idityaGE/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/idityaGE/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/idityaGE/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/idityaGE/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Prefix Sum
@@ -1125,5 +1132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/idityaGE/LeetCode/tree/master/0547-number-of-provinces) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/idityaGE/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/idityaGE/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/idityaGE/LeetCode/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
