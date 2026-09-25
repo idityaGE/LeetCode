@@ -1,12 +1,18 @@
 func maxSubArray(nums []int) int {
-	sum := 0
-	max_ele := math.MinInt
-	for i, _ := range nums {
-        sum += nums[i]
-        max_ele = max(sum, max_ele)
-        if sum < 0 {
-            sum = 0
-        }
-	}
-    return max_ele
+    curr := nums[0]
+    best := nums[0]
+
+    for i := 1; i < len(nums); i++ {
+        curr = max(curr+nums[i], nums[i])
+        best = max(curr, best)
+    }
+
+    return best
+}
+
+func max(a, b int) int {
+    if a >= b {
+        return a
+    }
+    return b
 }
