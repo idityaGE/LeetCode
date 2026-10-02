@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/idityaGE/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/idityaGE/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/idityaGE/LC-GFG/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/idityaGE/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/idityaGE/LC-GFG/tree/master/0460-lfu-cache) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/idityaGE/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/idityaGE/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/idityaGE/LC-GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/idityaGE/LC-GFG/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/idityaGE/LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/idityaGE/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/idityaGE/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/idityaGE/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/idityaGE/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
