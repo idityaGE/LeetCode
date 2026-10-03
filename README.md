@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/idityaGE/LC-GFG/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/idityaGE/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/idityaGE/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/idityaGE/LeetCode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/idityaGE/LC-GFG/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/idityaGE/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/idityaGE/LC-GFG/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/idityaGE/LC-GFG/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/idityaGE/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/idityaGE/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/idityaGE/LC-GFG/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/idityaGE/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/idityaGE/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/idityaGE/LC-GFG/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/idityaGE/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/idityaGE/LC-GFG/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/idityaGE/LC-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/idityaGE/LC-GFG/tree/master/0137-single-number-ii) |
