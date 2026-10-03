@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/idityaGE/LC-GFG/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/idityaGE/LC-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/idityaGE/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/idityaGE/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/idityaGE/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/idityaGE/LeetCode/tree/master/0890-lemonade-change) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/idityaGE/LC-GFG/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/idityaGE/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/idityaGE/LC-GFG/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/idityaGE/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/idityaGE/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/idityaGE/LC-GFG/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/idityaGE/LC-GFG/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/idityaGE/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/idityaGE/LC-GFG/tree/master/0937-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/idityaGE/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/idityaGE/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
