@@ -13,18 +13,18 @@ class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
         int maxDia = 0;
-        check(root, &maxDia);
+        solve(root, &maxDia);
         return maxDia;
     }
 
-    int check(TreeNode* node, int *maxDia) {
-        if (node == nullptr) return 0;
+    int solve(TreeNode *root, int *maxDia) {
+        if (!root) return 0;
 
-        int lh = check(node->left, maxDia);
-        int rh = check(node->right, maxDia);
+        int left = solve(root->left, maxDia);
+        int right = solve(root->right, maxDia);
 
-        *maxDia = max(*maxDia, lh + rh);
+        *maxDia = max(*maxDia, left + right);
 
-        return max(lh, rh) + 1;
-    }  
+        return 1 + max(left, right);
+    }
 };
