@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/idityaGE/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/idityaGE/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/idityaGE/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/idityaGE/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/idityaGE/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/idityaGE/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/idityaGE/LC-GFG/tree/master/0410-split-array-largest-sum) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/idityaGE/LC-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/idityaGE/LC-GFG/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/idityaGE/LC-GFG/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/idityaGE/LeetCode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/idityaGE/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/idityaGE/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0899-binary-gap](https://github.com/idityaGE/LeetCode/tree/master/0899-binary-gap) |
