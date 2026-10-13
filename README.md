@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/idityaGE/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/idityaGE/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/idityaGE/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/idityaGE/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/idityaGE/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/idityaGE/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/idityaGE/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/idityaGE/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/idityaGE/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/idityaGE/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
