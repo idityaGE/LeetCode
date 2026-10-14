@@ -10,39 +10,29 @@
  */
 class Solution {
 public:
+    struct Compare {
+        bool operator()(ListNode* a, ListNode* b) const { return a->val > b->val; }
+    };
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n_list = lists.size();
-        vector<vector<int>> l(n_list, vector<int>(0));
+        priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
+        for (ListNode* node : lists)
+            if (node != nullptr)
+                pq.push(node);
 
-        for (int i = 0; i < n_list; i++) {
-            ListNode* temp = lists[i];
-            while (temp != nullptr) {
-                l[i].push_back(temp->val);
-                temp = temp->next;
-            }
-        }
-
-        using T = tuple<int, int, int>;
-        priority_queue<T, vector<T>, greater<T>> pq;
-
-        for (int i = 0; i < n_list; i++)
-            if (!l[i].empty())
-                pq.push({l[i][0], i, 0});
-
-        ListNode ans(0);
-        ListNode *tail = &ans;
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
 
         while (!pq.empty()) {
-            auto [value, listIdx, elemIdx] = pq.top();
+            ListNode* top = pq.top();
             pq.pop();
 
-            tail->next = new ListNode(value);
+            if (top->next != nullptr)
+                pq.push(top->next);
+
+            tail->next = top;
             tail = tail->next;
-
-            if (elemIdx + 1 < l[listIdx].size())
-                pq.push({l[listIdx][elemIdx + 1], listIdx, elemIdx + 1});
         }
-
-        return ans.next;
+        return dummy.next;
     }
 };
